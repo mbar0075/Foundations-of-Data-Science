@@ -84,5 +84,5 @@ These projects provided valuable hands-on experience in applying data science te
 
 ## Deliverables:
 The repository includes two directories:<br />
-1. Data_Science_Individual: Individual Project utilising R
-2. GroupProject: Group Project  utilising R
+1. [Data_Science_Individual:](https://github.com/mbar0075/Foundations-of-Data-Science/tree/main/Data_Science_Individual) Individual Project utilising R
+2. [GroupProject:](https://github.com/mbar0075/Foundations-of-Data-Science/tree/main/GroupProject) Group Project  utilising R
