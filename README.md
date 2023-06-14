@@ -71,7 +71,7 @@ The first challenge, known as the **"Queen's Gambit"**, involved a chess player 
 In the second challenge, called **"Conditionitis"**, a screening test for a fictitious disease was analyzed. The test had a certain accuracy in identifying the disease and a known rate of false positives. The objective was to calculate the probability of a man having the disease given a positive test result, as well as the probability of having the disease given a negative test result.
 
 <p align='center'>
-  <img src="https://github.com/mbar0075/Foundations-of-Data-Science/assets/103250564/457800cc-f580-4a3c-9ddb-797ad884fb35" style="display: block; margin: 0 auto; width: 45%; height: auto;"></br>
+  <img src="https://github.com/mbar0075/Foundations-of-Data-Science/assets/103250564/457800cc-f580-4a3c-9ddb-797ad884fb35" style="display: block; margin: 0 auto; width: 55%; height: auto;"></br>
 </p>
 
 The third challenge, referred to as **"Bottled Water"**, focused on assessing whether a water dispensing machine was operating properly based on the amount of water dispensed into bottles. A sample of 35 bottles was taken, and the average amount dispensed and its variance were provided. The task was to determine if there was evidence that the machine needed repairs.
